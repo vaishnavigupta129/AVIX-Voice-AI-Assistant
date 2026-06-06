@@ -26,3 +26,4 @@ AVIX is an intelligent, context-aware voice assistant that bridges advanced clou
 ### 1. Configure Secrets
 Create a `.env` file inside your project's local directory to protect your API keys:
 ```env
+GEMINI_API_KEY=your_actual_gemini_api_key_here
